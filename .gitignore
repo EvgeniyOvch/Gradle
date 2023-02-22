@@ -1,0 +1,13 @@
+*.iml
+out
+.idea
+/target
+/shelf/
+/api/build
+/db/build
+/service/build
+*.xml
+/gradle
+.gradle
+gradlew
+gradlew.bat
